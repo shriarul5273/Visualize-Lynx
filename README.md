@@ -3,7 +3,7 @@
 ### created by shriarul643@gmail.com
 
 
-This a *matlab* script to Visualize forward kinematic of the lynx robot arm.
+This a *matlab* script to Visualize forward kinematics of the lynx robot arm.
 
 TO read more about LYNX robot arm (AL5A) see {http://www.lynxmotion.com/c-124-al5a.aspx}
 
