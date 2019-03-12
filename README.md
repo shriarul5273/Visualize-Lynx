@@ -1,6 +1,6 @@
 # Visualize-Lynx
 
-### created by shriarul643@gmail.com
+### Author  shriarul643@gmail.com
 
 
 This a *matlab* script to Visualize forward kinematics of the lynx robot arm.
